@@ -1,0 +1,37 @@
+{
+  "cacheItemsMap": {
+    "blog-one/index.mdx": {
+      "document": {
+        "title": "Soy un TITULO",
+        "publishedAt": "2023-06-11T04:00:00.000Z",
+        "updatedAt": "2023-06-11T04:00:00.000Z",
+        "description": "Soy una descripcion",
+        "image": "../../public/blogImages/pzoom.png",
+        "isPublished": true,
+        "author": "Sebastian",
+        "tags": [
+          "test",
+          "ejemplo",
+          "probando"
+        ],
+        "body": {
+          "raw": "\n## HOLA\n\n-     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n## H3 element\n\n- xd",
+          "html": "<h2>HOLA</h2>\n<ul>\n<li>\n<pre><code>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n</code></pre>\n</li>\n</ul>\n<h2>H3 element</h2>\n<ul>\n<li>xd</li>\n</ul>"
+        },
+        "_id": "blog-one/index.mdx",
+        "_raw": {
+          "sourceFilePath": "blog-one/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "blog-one",
+          "contentType": "mdx",
+          "flattenedPath": "blog-one"
+        },
+        "type": "Blog",
+        "url": "/blogs/blog-one"
+      },
+      "documentHash": "1699289285348",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    }
+  }
+}

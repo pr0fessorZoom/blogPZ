@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../contentlayer.config.js"],
+  "sourcesContent": ["import { makeSource,defineDocumentType } from '@contentlayer/source-files'\n\nconst Doc = defineDocumentType(() => ({\n    name: 'Blog',\n    filePathPattern: '**/*.md',\n    fields: {\n      title: {\n        type: 'string',\n      },\n    },\n  }))\n\nexport default makeSource({\n    contentDirPath: 'content',\n})"],
+  "mappings": ";AAAA,SAAS,YAAW,0BAA0B;AAE9C,IAAM,MAAM,mBAAmB,OAAO;AAAA,EAClC,MAAM;AAAA,EACN,iBAAiB;AAAA,EACjB,QAAQ;AAAA,IACN,OAAO;AAAA,MACL,MAAM;AAAA,IACR;AAAA,EACF;AACF,EAAE;AAEJ,IAAO,8BAAQ,WAAW;AAAA,EACtB,gBAAgB;AACpB,CAAC;",
+  "names": []
+}

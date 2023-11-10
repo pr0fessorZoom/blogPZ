@@ -1,11 +1,10 @@
-import Header from "./components/header/page"
-import Blog from "./components/ultimo-blog/page"
+import { allBlogs } from "contentlayer/generated";
+import HomeCover from "./components/Home/HomeCover";
 
 export default function Home() {
   return (
-    <>
-      <Header />
-      <Blog />
-    </>
-  )
+    <main className="flex flex-col items-center justify-center">
+      <HomeCover blogs={ allBlogs }/>
+    </main>
+  );
 }

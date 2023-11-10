@@ -1,0 +1,36 @@
+{
+  "title": "Soy un TITULO",
+  "publishedAt": "2023-06-11T04:00:00.000Z",
+  "updatedAt": "2023-06-11T04:00:00.000Z",
+  "description": "Soy una descripcion",
+  "image": {
+    "filePath": "../public/blogImages/pzoom.png",
+    "relativeFilePath": "../../public/blogImages/pzoom.png",
+    "format": "png",
+    "height": 1920,
+    "width": 1080,
+    "aspectRatio": 0.5625,
+    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAq0lEQVR4nGNwL/DBi8EEPszwaPP8/zn2Vv8/XDH5//WOIxi/2ez4P1Jf8v9sK6P/DE6OTv///nr2/2Gv5f/Ptyz/fzht///RLIv/grw8//9+OAhR8OfN9v9MjIxg3SoivP9fbLL+z8XO8/+iv81/hnvmuv///f3+//4Uy/+uFvpgiRm5qf8rk7X/K3Gw/mf4dMsJrDPKzxUsycrG9t9QUxls4v4Wz/9gl+LDAAEJdFH/N6kkAAAAK3RFWHRDcmVhdGlvbiBUaW1lAEZyaSwgMTAgTm92IDIwMjMgMTI6MzU6NDggR01Uyaqy9AAAAC50RVh0U29mdHdhcmUAZ2l0aHViLmNvbS9tYXRtZW4vSW1hZ2VTY3JpcHQgdjEuMi4xNujZvYYAAAAASUVORK5CYII="
+  },
+  "isPublished": true,
+  "author": "Sebastian",
+  "tags": [
+    "test",
+    "ejemplo",
+    "probando"
+  ],
+  "body": {
+    "raw": "\n## HOLA\n\n-     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n## H3 element\n\n- xd",
+    "html": "<h2>HOLA</h2>\n<ul>\n<li>\n<pre><code>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n</code></pre>\n</li>\n</ul>\n<h2>H3 element</h2>\n<ul>\n<li>xd</li>\n</ul>"
+  },
+  "_id": "blog-one/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-one/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-one",
+    "contentType": "mdx",
+    "flattenedPath": "blog-one"
+  },
+  "type": "Blog",
+  "url": "/blogs/blog-one"
+}
