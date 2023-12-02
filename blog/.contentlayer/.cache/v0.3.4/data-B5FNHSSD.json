@@ -1,0 +1,45 @@
+{
+  "cacheItemsMap": {
+    "about-me/index.mdx": {
+      "document": {
+        "title": "ProfessorZoom",
+        "publishedAt": "2023-06-11T04:00:00.000Z",
+        "updatedAt": "2023-06-11T04:00:00.000Z",
+        "description": "Quien es ProfessorZoom?",
+        "image": {
+          "filePath": "../public/blogImages/pexels-sebastiaan-stam-1480690.jpg",
+          "relativeFilePath": "../../public/blogImages/pexels-sebastiaan-stam-1480690.jpg",
+          "format": "jpeg",
+          "height": 4472,
+          "width": 6708,
+          "aspectRatio": 1.5,
+          "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAaklEQVR4nHWNQRLEIAgEUdS4m6f67ryD2GOZQ6pyGGeABi2lFGYWeCkl3F259y6fM+NRwZDsXgXT0wWUc47efspxRRzHynNhbQO0/xljDNVtAzwIoNbKhkQPfwD+xwHxrQkt+ku68IZ2jd/7yUUnpvY53QAAACt0RVh0Q3JlYXRpb24gVGltZQBTdW4sIDEyIE5vdiAyMDIzIDIwOjQ3OjMyIEdNVB5Cy6QAAAAudEVYdFNvZnR3YXJlAGdpdGh1Yi5jb20vbWF0bWVuL0ltYWdlU2NyaXB0IHYxLjIuMTbo2b2GAAAAAElFTkSuQmCC"
+        },
+        "isPublished": true,
+        "author": "Sebastian",
+        "abstract": "Curriculum del autor.",
+        "tags": [
+          "About",
+          "Resumen"
+        ],
+        "body": {
+          "raw": "\n## ProfessorZoom\n\n- Ingeniero en Ciberseguridad junior, capaz de organizar, planificar, dirigir y controlar equipos de trabajo, proyectos,\ndiagnosticar y dar solución efectiva a problemáticas de la especialidad, contribuir a la protección de activos\ndigitales y apoyar el éxito de la organización en materia de ciberseguridad.\nSe destaca por su disciplina, comunicación efectiva, manejo y resolución de conflictos, atención al cliente,\nautogestión, liderazgo y adaptarse de manera eficiente a los cambios.\n\n## Experiencia laboral\n- 2023 Practica profesional, Enex Departamento ciberseguridad.Huechuraba.\n- 2020/2023 Consultor, Independiente Desarrollo de software, mentoría y asesoría técnica.\n- 2020/2021 Apoyo construcción Empresa de construcción, jornal y albañilería.\n- 2018 Promotor, Arrow Venta de productos.\n- 2016/2018 Asistente Tricot Apoyo navideño.\n- 2016/present Mantenimiento técnico de computadoras Instalación, actualización, mantenimiento y reparación de computadores.\n- 2015/2018 Patrullero/Vigilante Patrullero seguridad ciudadana.\n\n## Educacion\n- Ingenieria en Ciberseguridad,\nUniversidad Tecnológica de Chile - Inacap\n\n- Ingeniería Civil Informática, Universidad Andres Bello *Incompleta*",
+          "html": "<h2>ProfessorZoom</h2>\n<ul>\n<li>Ingeniero en Ciberseguridad junior, capaz de organizar, planificar, dirigir y controlar equipos de trabajo, proyectos,\ndiagnosticar y dar solución efectiva a problemáticas de la especialidad, contribuir a la protección de activos\ndigitales y apoyar el éxito de la organización en materia de ciberseguridad.\nSe destaca por su disciplina, comunicación efectiva, manejo y resolución de conflictos, atención al cliente,\nautogestión, liderazgo y adaptarse de manera eficiente a los cambios.</li>\n</ul>\n<h2>Experiencia laboral</h2>\n<ul>\n<li>2023 Practica profesional, Enex Departamento ciberseguridad.Huechuraba.</li>\n<li>2020/2023 Consultor, Independiente Desarrollo de software, mentoría y asesoría técnica.</li>\n<li>2020/2021 Apoyo construcción Empresa de construcción, jornal y albañilería.</li>\n<li>2018 Promotor, Arrow Venta de productos.</li>\n<li>2016/2018 Asistente Tricot Apoyo navideño.</li>\n<li>2016/present Mantenimiento técnico de computadoras Instalación, actualización, mantenimiento y reparación de computadores.</li>\n<li>2015/2018 Patrullero/Vigilante Patrullero seguridad ciudadana.</li>\n</ul>\n<h2>Educacion</h2>\n<ul>\n<li>\n<p>Ingenieria en Ciberseguridad,\nUniversidad Tecnológica de Chile - Inacap</p>\n</li>\n<li>\n<p>Ingeniería Civil Informática, Universidad Andres Bello <em>Incompleta</em></p>\n</li>\n</ul>"
+        },
+        "_id": "about-me/index.mdx",
+        "_raw": {
+          "sourceFilePath": "about-me/index.mdx",
+          "sourceFileName": "index.mdx",
+          "sourceFileDir": "about-me",
+          "contentType": "mdx",
+          "flattenedPath": "about-me"
+        },
+        "type": "Blog",
+        "url": "/blogs/about-me"
+      },
+      "documentHash": "1699822050077",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    }
+  }
+}

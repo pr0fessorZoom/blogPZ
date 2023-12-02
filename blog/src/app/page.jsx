@@ -3,8 +3,8 @@ import HomeCover from "./components/Home/HomeCover";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-center">
-      <HomeCover blogs={ allBlogs }/>
+    <main className="my-5">
+      <HomeCover blogs={allBlogs} />
     </main>
   );
 }

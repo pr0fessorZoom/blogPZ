@@ -3,6 +3,7 @@ import { makeSource, defineDocumentType } from "@contentlayer/source-files";
 const Blog = defineDocumentType(() => ({
   name: "Blog",
   filePathPattern: "**/**/*.mdx",
+  contentType: "mdx",
   fields: {
     title: {
       type: "string",
@@ -48,5 +49,6 @@ const Blog = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirPath: "content",
-  documentTypes: [Blog]
+  documentTypes: [Blog],
+  disableImportAliasWarning: true,
 });

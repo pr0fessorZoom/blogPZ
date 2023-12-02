@@ -4,16 +4,17 @@
   "updatedAt": "2023-06-11T04:00:00.000Z",
   "description": "Soy una descripcion",
   "image": {
-    "filePath": "../public/blogImages/pzoom.png",
-    "relativeFilePath": "../../public/blogImages/pzoom.png",
-    "format": "png",
-    "height": 1920,
-    "width": 1080,
-    "aspectRatio": 0.5625,
-    "blurhashDataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAq0lEQVR4nGNwL/DBi8EEPszwaPP8/zn2Vv8/XDH5//WOIxi/2ez4P1Jf8v9sK6P/DE6OTv///nr2/2Gv5f/Ptyz/fzht///RLIv/grw8//9+OAhR8OfN9v9MjIxg3SoivP9fbLL+z8XO8/+iv81/hnvmuv///f3+//4Uy/+uFvpgiRm5qf8rk7X/K3Gw/mf4dMsJrDPKzxUsycrG9t9QUxls4v4Wz/9gl+LDAAEJdFH/N6kkAAAAK3RFWHRDcmVhdGlvbiBUaW1lAEZyaSwgMTAgTm92IDIwMjMgMTI6MzU6NDggR01Uyaqy9AAAAC50RVh0U29mdHdhcmUAZ2l0aHViLmNvbS9tYXRtZW4vSW1hZ2VTY3JpcHQgdjEuMi4xNujZvYYAAAAASUVORK5CYII="
+    "filePath": "../public/blogImages/pexels-markus-spiske-193350.jpg",
+    "relativeFilePath": "../../public/blogImages/pexels-markus-spiske-193350.jpg",
+    "format": "jpeg",
+    "height": 3840,
+    "width": 5760,
+    "aspectRatio": 1.5,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAdUlEQVR4nGMQV5T8L64ogRMDFUAYyAollBBsJAXIGEWB5H8xBfH/+hoW/3OKCv4nBiSBJWAYrADEeHzjyv95y6f8XzKvDcyHiEuCFEA4M/dU/VdTl/9voa0E5sMwVAECIxwIoeEKdLMM/0sqS//XslED82EYACzvXZvjdrBNAAAAK3RFWHRDcmVhdGlvbiBUaW1lAFN1biwgMTIgTm92IDIwMjMgMjA6MzI6MTggR01UNbsRowAAAC50RVh0U29mdHdhcmUAZ2l0aHViLmNvbS9tYXRtZW4vSW1hZ2VTY3JpcHQgdjEuMi4xNujZvYYAAAAASUVORK5CYII="
   },
   "isPublished": true,
   "author": "Sebastian",
+  "abstract": "Este es el resumen donde se explica que es el proyecto",
   "tags": [
     "test",
     "ejemplo",
