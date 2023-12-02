@@ -1,5 +1,5 @@
 import React from "react"
-import { allBlogs } from "contentlayer/generated"
+// import { allBlogs } from "contentlayer/generated"
 // import Card from "./Card"
 
 export default function BlogList() {
